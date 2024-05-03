@@ -1,0 +1,27 @@
+{
+  "name": "ayo-ayo-game",
+  "version": "1.0.0",
+  "description": "This repository contains the source code for Ayoayo game, a web application designed for users to play the Ayoayo game,facilitating collaboration and productivity within the team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc-watch --onsuccess \"node build/app.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.3.3",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.4.5"
+  },
+  "type": "module"
+}
