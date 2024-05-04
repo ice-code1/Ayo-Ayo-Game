@@ -14,10 +14,9 @@ Ayo Games is a web application developed using React.js for the frontend and Nod
 
 To run the project locally, follow these steps:
 
-1. Clone this repository:
+# Clone this repository:
 
-   ```bash
-   git clone https://github.com/ice-code1/Ayo-Ayo-Game.git
+git clone https://github.com/ice-code1/Ayo-Ayo-Game.git
 
 # Navigate to the project directory:
    cd ayo-games
