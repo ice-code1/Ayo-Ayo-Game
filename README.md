@@ -19,29 +19,26 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/ice-code1/Ayo-Ayo-Game.git
 
-2. Navigate to the project directory:
+# Navigate to the project directory:
    cd ayo-games
 
-3. Install dependencies for backend:
-   # Install frontend dependencies
-     npm install
 
-    # Install backend dependencies
+# Install backend dependencies
     cd ../server
     npm install
 
-4. Configure environment variables:
-    # Create a .env file in the server directory.
-    # Define environment variables such as database connection string, JWT secret, etc.
+# Configure environment variables:
+     Create a .env file in the server directory.
+     Define environment variables such as database connection string, JWT secret, etc.
 
-5. Start the backend server:
-   # Navigate to the server directory
-    cd ../server
+# Start the backend server:
+  Navigate to the server directory
+  cd ../server
 
-    # Start the server
+# Start the server
     npm start
 
-6. Open your browser and visit http://localhost:3001 to view the application.
+# Open your browser and visit http://localhost:3001 to view the application.
 
 # Technologies Used
     Backend:
